@@ -11,6 +11,7 @@
     <description>Contains the IBM MQ .NET Standard Client</description>
   </metadata>
   <files>
+    <file src="dlls\amqmdnetstd.dll" target="lib\netcoreapp3.0\amqmdnetstd.dll" />
     <file src="dlls\amqmdnetstd.dll" target="lib\netcoreapp2.2\amqmdnetstd.dll" />
     <file src="dlls\amqmdnetstd.dll" target="lib\netstandard2.0\amqmdnetstd.dll" />
   </files>
