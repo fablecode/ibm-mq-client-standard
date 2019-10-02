@@ -6,7 +6,7 @@
     <title>IBM.MQ.Client.Standard</title>
     <authors>RoyalMail</authors>
     <owners>RoyalMail</owners>
-	<projectUrl>https://github.com/fablecode/ibm-mq-client-standard</projectUrl>
+    <projectUrl>https://github.com/fablecode/ibm-mq-client-standard</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Contains the IBM MQ .NET Standard Client</description>
   </metadata>
