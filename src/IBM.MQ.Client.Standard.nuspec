@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package>
   <metadata>
-    <id>IBM MQ Client Standard</id>
+    <id>IBM-MQ-Client-Standard</id>
     <version>$version$</version>
     <title>IBM MQ Client Standard</title>
     <authors>fablecode</authors>
