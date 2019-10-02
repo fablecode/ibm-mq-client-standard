@@ -7,6 +7,7 @@
     <authors>RoyalMail</authors>
     <owners>RoyalMail</owners>
     <projectUrl>https://github.com/fablecode/ibm-mq-client-standard</projectUrl>
+	<iconUrl>https://developer.ibm.com/messaging/wp-content/uploads/sites/18/2017/09/IBM-MQ-Sticker.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Contains the IBM MQ .NET Standard Client</description>
   </metadata>
