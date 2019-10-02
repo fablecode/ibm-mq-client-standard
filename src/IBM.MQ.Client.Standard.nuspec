@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package>
   <metadata>
-    <id>IBM.MQ.Client.Standard</id>
+    <id>IBM MQ Client Standard</id>
     <version>$version$</version>
-    <title>IBM.MQ.Client.Standard</title>
-    <authors>RoyalMail</authors>
-    <owners>RoyalMail</owners>
+    <title>IBM MQ Client Standard</title>
+    <authors>fablecode</authors>
+    <owners>fablecode</owners>
     <projectUrl>https://github.com/fablecode/ibm-mq-client-standard</projectUrl>
 	<iconUrl>https://developer.ibm.com/messaging/wp-content/uploads/sites/18/2017/09/IBM-MQ-Sticker.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
