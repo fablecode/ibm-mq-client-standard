@@ -1,2 +1,2 @@
 # ibm-mq-client-standard
-The latest version of IBM MQ dll for .NET Standard 
+The latest version of IBM MQ .NET Standard Client dll. 
